@@ -63,6 +63,11 @@ Instalasi Pustaka myConvexHull
 
 Terdapat file test_myConvexHull.ipynb sebagai contoh penggunaan pustaka ini yang dapat dijalankan dengan menggunakan Jupyter Notebook
 
+Apabila ingin menghapus pustaka ini dari perangkat komputer dapat menuliskan pada CMD
+```
+    pip uninstall myconvexhull
+```
+
 ## Project Status
 Project is: _complete_
 
