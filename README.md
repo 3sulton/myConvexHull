@@ -68,10 +68,10 @@ Project is: _complete_
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Pustaka ini dibuat untuk memenuhi Tugas Kecil 2 IF2211 Strategi Algoritma
+- Proyek ini didasarkan pada tutorial [ini](https://codecrucks.com/convex-hull-using-divide-and-conquer/) untuk pendekatan divide and conquer dan tutorial [ini](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f) untuk pembuatan pustaka bahasa Python
+- Many thanks to Pak Rinaldi Munir selaku pengajar K03 IF2211 Strategi Algoritma
 
 
 ## Contact
-Created by [@3sulton](https://www.flynerd.pl/) - 13520033 / Tri Sulton Adila
+Created by [@3sulton](https://www.github.com/3sulton) - 13520033 / Tri Sulton Adila
