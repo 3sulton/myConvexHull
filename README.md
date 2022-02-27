@@ -13,7 +13,7 @@
 
 
 ## General Information
-- Himpunan titik pada bidang planar disebut convex jika untuk sembarang dua titik pada bidang tersebut, seluruh segmen garis yang berakhir di dua titik berada pada himpuanan tersebut.
+- Himpunan titik pada bidang planar disebut convex jika untuk sembarang dua titik pada bidang tersebut, seluruh segmen garis yang berakhir di dua titik berada pada himpunan tersebut.
 - Pustaka ini bertujuan untuk mencari garis penghubung titik titik sehingga membentuk convex hull.
 
 
@@ -50,8 +50,17 @@ Instalasi Jupiter Notebook di [sini](https://jupyter.org/install), sedangkan Jup
 ## Usage
 - clone repository github ini dengan mengetikkan di CMD
 
-`write-your-code-here`
+```
+git clone https://github.com/3sulton/myConvexHull.git
+```
+- akan muncul folder myConvexHull. Arahkan path pada cmd ke dalam folder tersebut dengan menuliskan `cd myConvexHull`
 
+Instalasi Pustaka myConvexHull
+```
+    pip install ./dist/myConvexHull-0.1.0-py3-none-any.whl
+```
+
+Terdapat file test_myConvexHull.ipynb sebagai contoh penggunaan pustaka ini yang dapat dijalankan dengan menggunakan Jupyter Notebook
 
 ## Project Status
 Project is: _complete_
