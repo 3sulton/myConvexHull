@@ -56,14 +56,14 @@ git clone https://github.com/3sulton/myConvexHull.git
 ```
 - akan muncul folder myConvexHull. Arahkan path pada cmd ke dalam folder tersebut dengan menuliskan `cd myConvexHull`
 
-Instalasi Pustaka myConvexHull
+- Instalasi Pustaka myConvexHull
 ```
     pip install ./dist/myConvexHull-0.1.0-py3-none-any.whl
 ```
 
 Terdapat file test_myConvexHull.ipynb sebagai contoh penggunaan pustaka ini yang dapat dijalankan dengan menggunakan Jupyter Notebook
 
-Apabila ingin menghapus pustaka ini dari perangkat komputer dapat menuliskan pada CMD
+- Apabila ingin menghapus pustaka ini dari perangkat komputer dapat menuliskan pada CMD
 ```
     pip uninstall myconvexhull
 ```
@@ -73,7 +73,6 @@ Project is: _complete_
 
 
 ## Acknowledgements
-Give credit here.
 - Pustaka ini dibuat untuk memenuhi Tugas Kecil 2 IF2211 Strategi Algoritma
 - Proyek ini didasarkan pada tutorial [ini](https://codecrucks.com/convex-hull-using-divide-and-conquer/) untuk pendekatan divide and conquer dan tutorial [ini](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f) untuk pembuatan pustaka bahasa Python
 - Many thanks to Pak Rinaldi Munir selaku pengajar K03 IF2211 Strategi Algoritma
