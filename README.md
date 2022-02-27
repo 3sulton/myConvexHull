@@ -40,7 +40,7 @@ Instalasi library pendukung pada CMD ketik
 ```
     pip install pandas
     pip install matplotlib
-    pip insall sklearn
+    pip install sklearn
     pip install scipy
 ```
 
